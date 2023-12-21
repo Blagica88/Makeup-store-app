@@ -50,7 +50,7 @@ Follow these steps to download and run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/makeup-boutique.git
+git clone https://github.com/Blagica88/Makeup-store-app.git
 
 # Install dependencies
 npm install
